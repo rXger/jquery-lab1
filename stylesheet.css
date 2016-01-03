@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 100%;
+
+
+}
+
+#wrapper {
+  background-color: black;
+  width: 800px;
+  margin: 10px auto;
+  padding: 0px;
+
+}
+
+
+.grid {
+  display: inline-block;
+  background-color: white;
+  margin-bottom: -5px;
+}
